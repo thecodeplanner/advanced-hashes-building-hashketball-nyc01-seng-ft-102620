@@ -6,7 +6,7 @@ hashketball =
 {
   :home => {
     :team_name => "Brooklyn Nets",
-    :colors => "Black, White",
+    :colors => ["Black, White"],
     :players => [
       {
       :player_name => "Alan Anderson",
