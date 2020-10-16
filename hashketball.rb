@@ -67,7 +67,7 @@ hashketball =
   },
   :away => {
     :team_name => "Charlotte Hornets",
-    :colors => "Turquoise, Purple",
+    :colors => ["Turquoise, Purple"],
     :players => [
       {
       :player_name => "Jeff Adrien",
