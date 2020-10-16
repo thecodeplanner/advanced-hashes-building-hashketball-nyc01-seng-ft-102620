@@ -2,7 +2,8 @@
 
 require 'pry'
 
-hashketball = {
+game_hash = 
+{
   :home => {
     :team_name => "Brooklyn Nets",
     :colors => "Black, White",
@@ -127,4 +128,4 @@ hashketball = {
   }
 }
 
-
+def
